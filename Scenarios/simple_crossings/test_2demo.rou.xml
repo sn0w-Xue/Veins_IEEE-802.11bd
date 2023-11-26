@@ -1,0 +1,10 @@
+<routes>
+	<flow id="flow1" from="edg2" begin="0" vehsPerHour="1200" color="1,0,0"/>
+	<flow id="flow2" from="edg4" begin="0" vehsPerHour="1800" color="0,1,0"/>
+	<flow id="flow3" from="edg9" begin="0" vehsPerHour="1400" color="0,0,1"/>
+	<flow id="flow4" from="edg19" begin="0" vehsPerHour="2200" color="1,1,0"/>
+	<flow id="flow5" from="edg6" begin="0" vehsPerHour="2000" color="1,0,1"/>
+	<flow id="flow6" from="edg16" begin="0" vehsPerHour="1000" color="0,1,1"/>
+	<flow id="flow7" from="edg21" begin="0" vehsPerHour="1400" color="1,1,1"/>
+	<flow id="flow8" from="edg23" begin="0" vehsPerHour="1200" color="0.3,0.7,0.4"/>
+</routes>

@@ -1,0 +1,6 @@
+DataTable.SCALAR.Experiment.width=170
+DataTable.SCALAR.Measurement.width=125
+DataTable.SCALAR.Module.width=272
+DataTable.SCALAR.Name.width=173
+DataTable.SCALAR.Value.width=329
+eclipse.preferences.version=1

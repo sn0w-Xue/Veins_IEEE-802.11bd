@@ -1,0 +1,1 @@
+python D:\Applications\Veins_OMNeTpp_SUMO\sumo-win64-1.8.0\sumo-1.8.0\tools\assign\duaIterate.py -n SiouxFalls.net.xml -t SiouxFalls.trip.xml -l 50 -R 100 -b 0 -e 1500

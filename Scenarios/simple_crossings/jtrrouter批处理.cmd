@@ -1,0 +1,2 @@
+@echo 使用 jtrrouter 根据 转弯率 和 路网 生成 车流
+start cmd /k "jtrrouter --route-files=test_2demo.rou.xml --turn-ratio-files=turn.xml --net-file=test_2.net.xml --output-file=test_2.rou.xml --begin 0 --end 2000 && exit"

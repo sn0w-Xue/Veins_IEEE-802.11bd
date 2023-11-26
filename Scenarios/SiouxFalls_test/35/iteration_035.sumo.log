@@ -1,0 +1,106 @@
+Loading net-file from '35\../SiouxFalls.net.xml' ... done (17ms).
+Loading additional-files from '35\dua_dump_035.add.xml' ... done (1ms).
+Loading done.
+Simulation version 1.8.0 started with time: 0.00
+Warning: Vehicle '272703' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=57.00.
+Warning: Vehicle '205163' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=209.00.
+Warning: Teleporting vehicle '47606'; waited too long (wrong lane), lane='gneE22_1', time=304.00.
+Warning: Vehicle '47606' ends teleporting on edge 'edg_32', time 304.00.
+Warning: Teleporting vehicle '41785'; waited too long (wrong lane), lane='gneE24_0', time=305.00.
+Warning: Teleporting vehicle '66146'; waited too long (yield), lane='gneE22_1', time=305.00.
+Warning: Vehicle '66146' ends teleporting on edge 'edg_31', time 305.00.
+Warning: Vehicle '41785' ends teleporting on edge 'edg_26', time 305.00.
+Warning: Teleporting vehicle '32554'; waited too long (yield), lane='gneE24_0', time=306.00.
+Warning: Vehicle '32554' ends teleporting on edge 'edg_28', time 306.00.
+Warning: Teleporting vehicle '41646'; waited too long (wrong lane), lane='gneE24_0', time=307.00.
+Warning: Vehicle '41646' ends teleporting on edge 'edg_26', time 307.00.
+Warning: Teleporting vehicle '216224'; waited too long (wrong lane), lane='gneE48_1', time=308.00.
+Warning: Vehicle '216224' ends teleporting on edge 'edg_60', time 308.00.
+Warning: Teleporting vehicle '295761'; waited too long (wrong lane), lane='gneE6_0', time=334.00.
+Warning: Vehicle '295761' ends teleporting on edge 'edg_9', time 334.00.
+Warning: Teleporting vehicle '80741'; waited too long (wrong lane), lane='gneE20_0', time=362.00.
+Warning: Vehicle '80741' ends teleporting on edge 'edg_35', time 362.00.
+Warning: Teleporting vehicle '71435'; waited too long (yield), lane='gneE20_0', time=363.00.
+Warning: Teleporting vehicle '288189'; waited too long (wrong lane), lane='gneE8_1', time=363.00.
+Warning: Vehicle '71435' ends teleporting on edge 'edg_37', time 363.00.
+Warning: Vehicle '288189' ends teleporting on edge 'edg_7', time 363.00.
+Warning: Teleporting vehicle '107470'; waited too long (wrong lane), lane='gneE32_1', time=369.00.
+Warning: Vehicle '107470' ends teleporting on edge 'edg_42', time 369.00.
+Warning: Teleporting vehicle '265051'; waited too long (wrong lane), lane='gneE38_1', time=445.00.
+Warning: Vehicle '265051' ends teleporting on edge 'edg_73', time 445.00.
+Warning: Teleporting vehicle '262907'; waited too long (yield), lane='gneE38_1', time=457.00.
+Warning: Vehicle '262907' ends teleporting on edge 'edg_71', time 457.00.
+Warning: Vehicle '271631' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=500.00.
+Warning: Vehicle '272876' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=516.00.
+Warning: Vehicle '274578' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=529.00.
+Warning: Vehicle '205130' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=575.00.
+Warning: Vehicle '269888' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=591.00.
+Warning: Teleporting vehicle '46698'; waited too long (wrong lane), lane='gneE22_1', time=635.00.
+Warning: Teleporting vehicle '64965'; waited too long (wrong lane), lane='gneE22_0', time=635.00.
+Warning: Vehicle '46698' ends teleporting on edge 'edg_32', time 635.00.
+Warning: Vehicle '64965' ends teleporting on edge 'edg_31', time 635.00.
+Warning: Teleporting vehicle '295154'; waited too long (wrong lane), lane='gneE6_0', time=702.00.
+Warning: Vehicle '295154' ends teleporting on edge 'edg_9', time 702.00.
+Warning: Teleporting vehicle '287943'; waited too long (wrong lane), lane='gneE8_1', time=718.00.
+Warning: Vehicle '287943' ends teleporting on edge 'edg_7', time 718.00.
+Warning: Teleporting vehicle '78057'; waited too long (wrong lane), lane='gneE20_1', time=739.00.
+Warning: Teleporting vehicle '78502'; waited too long (wrong lane), lane='gneE20_0', time=739.00.
+Warning: Vehicle '78057' ends teleporting on edge 'edg_37', time 739.00.
+Warning: Vehicle '78502' ends teleporting on edge 'edg_35', time 739.00.
+Warning: Vehicle '205282' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=752.00.
+Warning: Teleporting vehicle '109797'; waited too long (wrong lane), lane='gneE32_0', time=829.00.
+Warning: Vehicle '109797' ends teleporting on edge 'edg_40', time 829.00.
+Warning: Teleporting vehicle '267250'; waited too long (wrong lane), lane='gneE38_0', time=897.00.
+Warning: Vehicle '267250' ends teleporting on edge 'edg_71', time 897.00.
+Warning: Vehicle '274918' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=950.00.
+Warning: Teleporting vehicle '194062'; waited too long (wrong lane), lane='gneE36_0', time=976.00.
+Warning: Vehicle '194062' ends teleporting on edge 'edg_59', time 976.00.
+Warning: Teleporting vehicle '197864'; waited too long (yield), lane='gneE36_0', time=977.00.
+Warning: Vehicle '197864' ends teleporting on edge 'edg_58', time 977.00.
+Warning: Teleporting vehicle '50573'; waited too long (wrong lane), lane='gneE22_0', time=1001.00.
+Warning: Teleporting vehicle '45752'; waited too long (wrong lane), lane='gneE22_1', time=1001.00.
+Warning: Vehicle '45752' ends teleporting on edge 'edg_32', time 1001.00.
+Warning: Vehicle '50573' ends teleporting on edge 'edg_33', time 1001.00.
+Warning: Vehicle '205853' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=1029.00.
+Warning: Teleporting vehicle '304006'; waited too long (wrong lane), lane='gneE10_0', time=1059.00.
+Warning: Vehicle '304006' ends teleporting on edge 'edg_12', time 1059.00.
+Warning: Teleporting vehicle '303409'; waited too long (yield), lane='gneE10_0', time=1060.00.
+Warning: Vehicle '303409' ends teleporting on edge 'edg_11', time 1060.00.
+Warning: Teleporting vehicle '301101'; waited too long (wrong lane), lane='gneE6_0', time=1064.00.
+Warning: Vehicle '301101' ends teleporting on edge 'edg_9', time 1064.00.
+Warning: Teleporting vehicle '288108'; waited too long (wrong lane), lane='gneE8_1', time=1085.00.
+Warning: Vehicle '288108' ends teleporting on edge 'edg_7', time 1085.00.
+Warning: Teleporting vehicle '100814'; waited too long (wrong lane), lane='gneE32_1', time=1133.00.
+Warning: Vehicle '100814' ends teleporting on edge 'edg_42', time 1133.00.
+Warning: Teleporting vehicle '270816'; waited too long (wrong lane), lane='gneE38_1', time=1256.00.
+Warning: Vehicle '270816' ends teleporting on edge 'edg_73', time 1256.00.
+Warning: Teleporting vehicle '266682'; waited too long (yield), lane='gneE38_1', time=1259.00.
+Warning: Vehicle '266682' ends teleporting on edge 'edg_71', time 1259.00.
+Warning: Vehicle '272259' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=1315.00.
+Warning: Teleporting vehicle '49110'; waited too long (wrong lane), lane='gneE22_0', time=1373.00.
+Warning: Vehicle '49110' ends teleporting on edge 'edg_33', time 1373.00.
+Warning: Teleporting vehicle '60585'; waited too long (yield), lane='gneE22_0', time=1374.00.
+Warning: Vehicle '60585' ends teleporting on edge 'edg_34', time 1374.00.
+Warning: Teleporting vehicle '296880'; waited too long (wrong lane), lane='gneE6_1', time=1418.00.
+Warning: Teleporting vehicle '299601'; waited too long (wrong lane), lane='gneE6_0', time=1418.00.
+Warning: Vehicle '299601' ends teleporting on edge 'edg_9', time 1418.00.
+Warning: Vehicle '296880' ends teleporting on edge 'edg_8', time 1418.00.
+Warning: Teleporting vehicle '287376'; waited too long (wrong lane), lane='gneE8_1', time=1426.00.
+Warning: Vehicle '287376' ends teleporting on edge 'edg_7', time 1426.00.
+Warning: Vehicle '269719' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=1434.00.
+Warning: Teleporting vehicle '98409'; waited too long (wrong lane), lane='gneE32_0', time=1438.00.
+Warning: Vehicle '98409' ends teleporting on edge 'edg_40', time 1438.00.
+Warning: Vehicle '205136' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=1454.00.
+Warning: Vehicle '291303' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=1478.00.
+Simulation ended at time: 1500.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 41.30s
+ Real time factor: 36.317
+ UPS: 48156.792485
+Vehicles: 
+ Inserted: 5205 (Loaded: 149760)
+ Running: 2042
+ Waiting: 144465
+Teleports: 38 (Yield: 8, Wrong Lane: 30)
+

@@ -1,0 +1,701 @@
+> Executing step 0
+>> Running router on SiouxFalls.trip.xml
+>>> Begin time: 2023-05-04 15:37:19.884327
+>>> End time: 2023-05-04 15:37:25.116521
+>>> Duration: 0:00:05.232194
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 15:37:25.116521
+>>> End time: 2023-05-04 15:38:09.828769
+>>> Duration: 0:00:44.712248
+<<
+< Step 0 ended (duration: 0:00:49.945444)
+------------------
+
+> Executing step 1
+>> Running router on 0\SiouxFalls_000.rou.alt.xml
+>>> Begin time: 2023-05-04 15:38:09.830763
+>>> End time: 2023-05-04 15:38:16.132618
+>>> Duration: 0:00:06.301855
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 15:38:16.132618
+>>> End time: 2023-05-04 15:38:59.546345
+>>> Duration: 0:00:43.413727
+<<
+< Step 1 ended (duration: 0:00:49.715582)
+------------------
+
+> Executing step 2
+>> Running router on 1\SiouxFalls_001.rou.alt.xml
+>>> Begin time: 2023-05-04 15:38:59.554119
+>>> End time: 2023-05-04 15:39:06.509803
+>>> Duration: 0:00:06.955684
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 15:39:06.512811
+>>> End time: 2023-05-04 15:39:49.938540
+>>> Duration: 0:00:43.425729
+<<
+< Step 2 ended (duration: 0:00:50.385422)
+------------------
+
+> Executing step 3
+>> Running router on 2\SiouxFalls_002.rou.alt.xml
+>>> Begin time: 2023-05-04 15:39:49.944074
+>>> End time: 2023-05-04 15:39:57.052979
+>>> Duration: 0:00:07.108905
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 15:39:57.052979
+>>> End time: 2023-05-04 15:40:40.552624
+>>> Duration: 0:00:43.499645
+<<
+< Step 3 ended (duration: 0:00:50.609616)
+------------------
+
+> Executing step 4
+>> Running router on 3\SiouxFalls_003.rou.alt.xml
+>>> Begin time: 2023-05-04 15:40:40.557131
+>>> End time: 2023-05-04 15:40:47.834362
+>>> Duration: 0:00:07.277231
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 15:40:47.836376
+>>> End time: 2023-05-04 15:41:31.799519
+>>> Duration: 0:00:43.963143
+<<
+< Step 4 ended (duration: 0:00:51.243397)
+------------------
+
+> Executing step 5
+>> Running router on 4\SiouxFalls_004.rou.alt.xml
+>>> Begin time: 2023-05-04 15:41:31.801528
+>>> End time: 2023-05-04 15:41:39.095725
+>>> Duration: 0:00:07.294197
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 15:41:39.095725
+>>> End time: 2023-05-04 15:42:22.556302
+>>> Duration: 0:00:43.460577
+<<
+< Step 5 ended (duration: 0:00:50.754774)
+------------------
+
+> Executing step 6
+>> Running router on 5\SiouxFalls_005.rou.alt.xml
+>>> Begin time: 2023-05-04 15:42:22.557796
+>>> End time: 2023-05-04 15:42:30.050242
+>>> Duration: 0:00:07.492446
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 15:42:30.050242
+>>> End time: 2023-05-04 15:43:21.836624
+>>> Duration: 0:00:51.786382
+<<
+< Step 6 ended (duration: 0:00:59.278828)
+------------------
+
+> Executing step 7
+>> Running router on 6\SiouxFalls_006.rou.alt.xml
+>>> Begin time: 2023-05-04 15:43:21.839151
+>>> End time: 2023-05-04 15:43:29.497617
+>>> Duration: 0:00:07.658466
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 15:43:29.497617
+>>> End time: 2023-05-04 15:44:38.972775
+>>> Duration: 0:01:09.475158
+<<
+< Step 7 ended (duration: 0:01:17.133624)
+------------------
+
+> Executing step 8
+>> Running router on 7\SiouxFalls_007.rou.alt.xml
+>>> Begin time: 2023-05-04 15:44:38.974289
+>>> End time: 2023-05-04 15:44:46.888033
+>>> Duration: 0:00:07.913744
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 15:44:46.888033
+>>> End time: 2023-05-04 15:45:57.020349
+>>> Duration: 0:01:10.132316
+<<
+< Step 8 ended (duration: 0:01:18.046060)
+------------------
+
+> Executing step 9
+>> Running router on 8\SiouxFalls_008.rou.alt.xml
+>>> Begin time: 2023-05-04 15:45:57.022341
+>>> End time: 2023-05-04 15:46:05.508951
+>>> Duration: 0:00:08.486610
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 15:46:05.508951
+>>> End time: 2023-05-04 15:47:10.302014
+>>> Duration: 0:01:04.793063
+<<
+< Step 9 ended (duration: 0:01:13.280672)
+------------------
+
+> Executing step 10
+>> Running router on 9\SiouxFalls_009.rou.alt.xml
+>>> Begin time: 2023-05-04 15:47:10.304516
+>>> End time: 2023-05-04 15:47:17.866099
+>>> Duration: 0:00:07.561583
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 15:47:17.867097
+>>> End time: 2023-05-04 15:48:25.104358
+>>> Duration: 0:01:07.237261
+<<
+< Step 10 ended (duration: 0:01:14.799842)
+------------------
+
+> Executing step 11
+>> Running router on 10\SiouxFalls_010.rou.alt.xml
+>>> Begin time: 2023-05-04 15:48:25.105359
+>>> End time: 2023-05-04 15:48:33.395762
+>>> Duration: 0:00:08.290403
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 15:48:33.396762
+>>> End time: 2023-05-04 15:49:48.914579
+>>> Duration: 0:01:15.517817
+<<
+< Step 11 ended (duration: 0:01:23.809220)
+------------------
+
+> Executing step 12
+>> Running router on 11\SiouxFalls_011.rou.alt.xml
+>>> Begin time: 2023-05-04 15:49:48.916086
+>>> End time: 2023-05-04 15:49:56.105689
+>>> Duration: 0:00:07.189603
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 15:49:56.105689
+>>> End time: 2023-05-04 15:51:02.733514
+>>> Duration: 0:01:06.627825
+<<
+< Step 12 ended (duration: 0:01:13.818427)
+------------------
+
+> Executing step 13
+>> Running router on 12\SiouxFalls_012.rou.alt.xml
+>>> Begin time: 2023-05-04 15:51:02.736018
+>>> End time: 2023-05-04 15:51:09.963303
+>>> Duration: 0:00:07.227285
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 15:51:09.963303
+>>> End time: 2023-05-04 15:52:15.736475
+>>> Duration: 0:01:05.773172
+<<
+< Step 13 ended (duration: 0:01:13.000457)
+------------------
+
+> Executing step 14
+>> Running router on 13\SiouxFalls_013.rou.alt.xml
+>>> Begin time: 2023-05-04 15:52:15.738480
+>>> End time: 2023-05-04 15:52:22.942380
+>>> Duration: 0:00:07.203900
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 15:52:22.942380
+>>> End time: 2023-05-04 15:53:28.958005
+>>> Duration: 0:01:06.015625
+<<
+< Step 14 ended (duration: 0:01:13.220526)
+------------------
+
+> Executing step 15
+>> Running router on 14\SiouxFalls_014.rou.alt.xml
+>>> Begin time: 2023-05-04 15:53:28.959634
+>>> End time: 2023-05-04 15:53:36.381858
+>>> Duration: 0:00:07.422224
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 15:53:36.382858
+>>> End time: 2023-05-04 15:54:47.788015
+>>> Duration: 0:01:11.405157
+<<
+< Step 15 ended (duration: 0:01:18.829380)
+------------------
+
+> Executing step 16
+>> Running router on 15\SiouxFalls_015.rou.alt.xml
+>>> Begin time: 2023-05-04 15:54:47.790015
+>>> End time: 2023-05-04 15:54:57.114660
+>>> Duration: 0:00:09.324645
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 15:54:57.114660
+>>> End time: 2023-05-04 15:56:10.112113
+>>> Duration: 0:01:12.997453
+<<
+< Step 16 ended (duration: 0:01:22.323165)
+------------------
+
+> Executing step 17
+>> Running router on 16\SiouxFalls_016.rou.alt.xml
+>>> Begin time: 2023-05-04 15:56:10.114169
+>>> End time: 2023-05-04 15:56:19.389842
+>>> Duration: 0:00:09.275673
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 15:56:19.389842
+>>> End time: 2023-05-04 15:57:32.611890
+>>> Duration: 0:01:13.222048
+<<
+< Step 17 ended (duration: 0:01:22.497721)
+------------------
+
+> Executing step 18
+>> Running router on 17\SiouxFalls_017.rou.alt.xml
+>>> Begin time: 2023-05-04 15:57:32.613890
+>>> End time: 2023-05-04 15:57:42.397166
+>>> Duration: 0:00:09.783276
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 15:57:42.397166
+>>> End time: 2023-05-04 15:58:52.260482
+>>> Duration: 0:01:09.863316
+<<
+< Step 18 ended (duration: 0:01:19.647593)
+------------------
+
+> Executing step 19
+>> Running router on 18\SiouxFalls_018.rou.alt.xml
+>>> Begin time: 2023-05-04 15:58:52.261474
+>>> End time: 2023-05-04 15:59:01.713355
+>>> Duration: 0:00:09.451881
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 15:59:01.713355
+>>> End time: 2023-05-04 16:00:14.839400
+>>> Duration: 0:01:13.126045
+<<
+< Step 19 ended (duration: 0:01:22.578917)
+------------------
+
+> Executing step 20
+>> Running router on 19\SiouxFalls_019.rou.alt.xml
+>>> Begin time: 2023-05-04 16:00:14.841395
+>>> End time: 2023-05-04 16:00:22.471459
+>>> Duration: 0:00:07.630064
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 16:00:22.471459
+>>> End time: 2023-05-04 16:01:30.979834
+>>> Duration: 0:01:08.508375
+<<
+< Step 20 ended (duration: 0:01:16.138439)
+------------------
+
+> Executing step 21
+>> Running router on 20\SiouxFalls_020.rou.alt.xml
+>>> Begin time: 2023-05-04 16:01:30.981834
+>>> End time: 2023-05-04 16:01:40.100946
+>>> Duration: 0:00:09.119112
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 16:01:40.101945
+>>> End time: 2023-05-04 16:02:53.187181
+>>> Duration: 0:01:13.085236
+<<
+< Step 21 ended (duration: 0:01:22.205347)
+------------------
+
+> Executing step 22
+>> Running router on 21\SiouxFalls_021.rou.alt.xml
+>>> Begin time: 2023-05-04 16:02:53.189722
+>>> End time: 2023-05-04 16:03:05.380003
+>>> Duration: 0:00:12.190281
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 16:03:05.381003
+>>> End time: 2023-05-04 16:04:19.679859
+>>> Duration: 0:01:14.298856
+<<
+< Step 22 ended (duration: 0:01:26.491148)
+------------------
+
+> Executing step 23
+>> Running router on 22\SiouxFalls_022.rou.alt.xml
+>>> Begin time: 2023-05-04 16:04:19.680859
+>>> End time: 2023-05-04 16:04:27.472950
+>>> Duration: 0:00:07.792091
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 16:04:27.472950
+>>> End time: 2023-05-04 16:05:41.801763
+>>> Duration: 0:01:14.328813
+<<
+< Step 23 ended (duration: 0:01:22.120904)
+------------------
+
+> Executing step 24
+>> Running router on 23\SiouxFalls_023.rou.alt.xml
+>>> Begin time: 2023-05-04 16:05:41.803722
+>>> End time: 2023-05-04 16:05:53.809469
+>>> Duration: 0:00:12.005747
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 16:05:53.810112
+>>> End time: 2023-05-04 16:07:10.070238
+>>> Duration: 0:01:16.260126
+<<
+< Step 24 ended (duration: 0:01:28.266516)
+------------------
+
+> Executing step 25
+>> Running router on 24\SiouxFalls_024.rou.alt.xml
+>>> Begin time: 2023-05-04 16:07:10.071230
+>>> End time: 2023-05-04 16:07:19.664861
+>>> Duration: 0:00:09.593631
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 16:07:19.665861
+>>> End time: 2023-05-04 16:08:28.089647
+>>> Duration: 0:01:08.423786
+<<
+< Step 25 ended (duration: 0:01:18.018417)
+------------------
+
+> Executing step 26
+>> Running router on 25\SiouxFalls_025.rou.alt.xml
+>>> Begin time: 2023-05-04 16:08:28.090644
+>>> End time: 2023-05-04 16:08:36.697310
+>>> Duration: 0:00:08.606666
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 16:08:36.698311
+>>> End time: 2023-05-04 16:09:40.785308
+>>> Duration: 0:01:04.086997
+<<
+< Step 26 ended (duration: 0:01:12.694664)
+------------------
+
+> Executing step 27
+>> Running router on 26\SiouxFalls_026.rou.alt.xml
+>>> Begin time: 2023-05-04 16:09:40.789635
+>>> End time: 2023-05-04 16:09:48.471869
+>>> Duration: 0:00:07.682234
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 16:09:48.471869
+>>> End time: 2023-05-04 16:10:33.952059
+>>> Duration: 0:00:45.480190
+<<
+< Step 27 ended (duration: 0:00:53.163424)
+------------------
+
+> Executing step 28
+>> Running router on 27\SiouxFalls_027.rou.alt.xml
+>>> Begin time: 2023-05-04 16:10:33.957324
+>>> End time: 2023-05-04 16:10:41.550216
+>>> Duration: 0:00:07.592892
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 16:10:41.551217
+>>> End time: 2023-05-04 16:11:25.692729
+>>> Duration: 0:00:44.141512
+<<
+< Step 28 ended (duration: 0:00:51.735405)
+------------------
+
+> Executing step 29
+>> Running router on 28\SiouxFalls_028.rou.alt.xml
+>>> Begin time: 2023-05-04 16:11:25.697726
+>>> End time: 2023-05-04 16:11:33.066557
+>>> Duration: 0:00:07.368831
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 16:11:33.066557
+>>> End time: 2023-05-04 16:12:16.096850
+>>> Duration: 0:00:43.030293
+<<
+< Step 29 ended (duration: 0:00:50.399124)
+------------------
+
+> Executing step 30
+>> Running router on 29\SiouxFalls_029.rou.alt.xml
+>>> Begin time: 2023-05-04 16:12:16.100849
+>>> End time: 2023-05-04 16:12:23.342201
+>>> Duration: 0:00:07.241352
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 16:12:23.342201
+>>> End time: 2023-05-04 16:13:06.052454
+>>> Duration: 0:00:42.710253
+<<
+< Step 30 ended (duration: 0:00:49.952606)
+------------------
+
+> Executing step 31
+>> Running router on 30\SiouxFalls_030.rou.alt.xml
+>>> Begin time: 2023-05-04 16:13:06.057493
+>>> End time: 2023-05-04 16:13:13.255717
+>>> Duration: 0:00:07.198224
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 16:13:13.255911
+>>> End time: 2023-05-04 16:13:55.407100
+>>> Duration: 0:00:42.151189
+<<
+< Step 31 ended (duration: 0:00:49.349607)
+------------------
+
+> Executing step 32
+>> Running router on 31\SiouxFalls_031.rou.alt.xml
+>>> Begin time: 2023-05-04 16:13:55.408100
+>>> End time: 2023-05-04 16:14:02.725524
+>>> Duration: 0:00:07.317424
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 16:14:02.725524
+>>> End time: 2023-05-04 16:14:45.353123
+>>> Duration: 0:00:42.627599
+<<
+< Step 32 ended (duration: 0:00:49.945023)
+------------------
+
+> Executing step 33
+>> Running router on 32\SiouxFalls_032.rou.alt.xml
+>>> Begin time: 2023-05-04 16:14:45.354551
+>>> End time: 2023-05-04 16:14:52.625485
+>>> Duration: 0:00:07.270934
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 16:14:52.626492
+>>> End time: 2023-05-04 16:15:35.455235
+>>> Duration: 0:00:42.828743
+<<
+< Step 33 ended (duration: 0:00:50.100684)
+------------------
+
+> Executing step 34
+>> Running router on 33\SiouxFalls_033.rou.alt.xml
+>>> Begin time: 2023-05-04 16:15:35.456034
+>>> End time: 2023-05-04 16:15:42.630001
+>>> Duration: 0:00:07.173967
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 16:15:42.630001
+>>> End time: 2023-05-04 16:16:25.401912
+>>> Duration: 0:00:42.771911
+<<
+< Step 34 ended (duration: 0:00:49.945878)
+------------------
+
+> Executing step 35
+>> Running router on 34\SiouxFalls_034.rou.alt.xml
+>>> Begin time: 2023-05-04 16:16:25.403916
+>>> End time: 2023-05-04 16:16:32.559585
+>>> Duration: 0:00:07.155669
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 16:16:32.559585
+>>> End time: 2023-05-04 16:17:14.498434
+>>> Duration: 0:00:41.938849
+<<
+< Step 35 ended (duration: 0:00:49.094518)
+------------------
+
+> Executing step 36
+>> Running router on 35\SiouxFalls_035.rou.alt.xml
+>>> Begin time: 2023-05-04 16:17:14.499434
+>>> End time: 2023-05-04 16:17:21.773729
+>>> Duration: 0:00:07.274295
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 16:17:21.773729
+>>> End time: 2023-05-04 16:18:13.097558
+>>> Duration: 0:00:51.323829
+<<
+< Step 36 ended (duration: 0:00:58.598124)
+------------------
+
+> Executing step 37
+>> Running router on 36\SiouxFalls_036.rou.alt.xml
+>>> Begin time: 2023-05-04 16:18:13.099570
+>>> End time: 2023-05-04 16:18:21.462655
+>>> Duration: 0:00:08.363085
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 16:18:21.462655
+>>> End time: 2023-05-04 16:19:32.620176
+>>> Duration: 0:01:11.157521
+<<
+< Step 37 ended (duration: 0:01:19.520606)
+------------------
+
+> Executing step 38
+>> Running router on 37\SiouxFalls_037.rou.alt.xml
+>>> Begin time: 2023-05-04 16:19:32.621175
+>>> End time: 2023-05-04 16:19:41.784621
+>>> Duration: 0:00:09.163446
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 16:19:41.784621
+>>> End time: 2023-05-04 16:20:52.708916
+>>> Duration: 0:01:10.924295
+<<
+< Step 38 ended (duration: 0:01:20.089243)
+------------------
+
+> Executing step 39
+>> Running router on 38\SiouxFalls_038.rou.alt.xml
+>>> Begin time: 2023-05-04 16:20:52.714698
+>>> End time: 2023-05-04 16:21:00.774924
+>>> Duration: 0:00:08.060226
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 16:21:00.775928
+>>> End time: 2023-05-04 16:22:07.993446
+>>> Duration: 0:01:07.217518
+<<
+< Step 39 ended (duration: 0:01:15.278748)
+------------------
+
+> Executing step 40
+>> Running router on 39\SiouxFalls_039.rou.alt.xml
+>>> Begin time: 2023-05-04 16:22:07.995447
+>>> End time: 2023-05-04 16:22:16.825286
+>>> Duration: 0:00:08.829839
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 16:22:16.825286
+>>> End time: 2023-05-04 16:23:25.433842
+>>> Duration: 0:01:08.608556
+<<
+< Step 40 ended (duration: 0:01:17.438395)
+------------------
+
+> Executing step 41
+>> Running router on 40\SiouxFalls_040.rou.alt.xml
+>>> Begin time: 2023-05-04 16:23:25.437843
+>>> End time: 2023-05-04 16:23:34.804876
+>>> Duration: 0:00:09.367033
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 16:23:34.804876
+>>> End time: 2023-05-04 16:24:45.054750
+>>> Duration: 0:01:10.249874
+<<
+< Step 41 ended (duration: 0:01:19.617911)
+------------------
+
+> Executing step 42
+>> Running router on 41\SiouxFalls_041.rou.alt.xml
+>>> Begin time: 2023-05-04 16:24:45.061842
+>>> End time: 2023-05-04 16:24:53.640782
+>>> Duration: 0:00:08.578940
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 16:24:53.640782
+>>> End time: 2023-05-04 16:26:07.856407
+>>> Duration: 0:01:14.215625
+<<
+< Step 42 ended (duration: 0:01:22.794565)
+------------------
+
+> Executing step 43
+>> Running router on 42\SiouxFalls_042.rou.alt.xml
+>>> Begin time: 2023-05-04 16:26:07.859397
+>>> End time: 2023-05-04 16:26:18.876051
+>>> Duration: 0:00:11.016654
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 16:26:18.876051
+>>> End time: 2023-05-04 16:27:32.808804
+>>> Duration: 0:01:13.932753
+<<
+< Step 43 ended (duration: 0:01:24.950407)
+------------------
+
+> Executing step 44
+>> Running router on 43\SiouxFalls_043.rou.alt.xml
+>>> Begin time: 2023-05-04 16:27:32.811309
+>>> End time: 2023-05-04 16:27:40.314863
+>>> Duration: 0:00:07.503554
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 16:27:40.314863
+>>> End time: 2023-05-04 16:28:47.895463
+>>> Duration: 0:01:07.580600
+<<
+< Step 44 ended (duration: 0:01:15.084154)
+------------------
+
+> Executing step 45
+>> Running router on 44\SiouxFalls_044.rou.alt.xml
+>>> Begin time: 2023-05-04 16:28:47.896464
+>>> End time: 2023-05-04 16:28:55.521832
+>>> Duration: 0:00:07.625368
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 16:28:55.521832
+>>> End time: 2023-05-04 16:30:09.230608
+>>> Duration: 0:01:13.708776
+<<
+< Step 45 ended (duration: 0:01:21.334144)
+------------------
+
+> Executing step 46
+>> Running router on 45\SiouxFalls_045.rou.alt.xml
+>>> Begin time: 2023-05-04 16:30:09.231612
+>>> End time: 2023-05-04 16:30:20.738128
+>>> Duration: 0:00:11.506516
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 16:30:20.738128
+>>> End time: 2023-05-04 16:31:35.973061
+>>> Duration: 0:01:15.234933
+<<
+< Step 46 ended (duration: 0:01:26.742446)
+------------------
+
+> Executing step 47
+>> Running router on 46\SiouxFalls_046.rou.alt.xml
+>>> Begin time: 2023-05-04 16:31:35.975057
+>>> End time: 2023-05-04 16:31:43.900029
+>>> Duration: 0:00:07.924972
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 16:31:43.900029
+>>> End time: 2023-05-04 16:32:53.195221
+>>> Duration: 0:01:09.295192
+<<
+< Step 47 ended (duration: 0:01:17.220164)
+------------------
+
+> Executing step 48
+>> Running router on 47\SiouxFalls_047.rou.alt.xml
+>>> Begin time: 2023-05-04 16:32:53.199220
+>>> End time: 2023-05-04 16:33:02.106669
+>>> Duration: 0:00:08.907449
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 16:33:02.107670
+>>> End time: 2023-05-04 16:34:16.686603
+>>> Duration: 0:01:14.578933
+<<
+< Step 48 ended (duration: 0:01:23.488374)
+------------------
+
+> Executing step 49
+>> Running router on 48\SiouxFalls_048.rou.alt.xml
+>>> Begin time: 2023-05-04 16:34:16.690653
+>>> End time: 2023-05-04 16:34:26.126271
+>>> Duration: 0:00:09.435618
+<<
+>> Running simulation
+>>> Begin time: 2023-05-04 16:34:26.127272
+>>> End time: 2023-05-04 16:35:41.239866
+>>> Duration: 0:01:15.112594
+<<
+< Step 49 ended (duration: 0:01:24.549213)
+------------------
+
+dua-iterate ended (duration: 0:58:21.360796)

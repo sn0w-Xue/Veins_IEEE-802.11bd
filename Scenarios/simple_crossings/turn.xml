@@ -1,0 +1,82 @@
+<edgeRelations>
+	<interval begin="0" end="2000">
+		<!-- cro4 -->
+		<edgeRelation from="edg2" to="edg5" probability="0.3"/>
+		<edgeRelation from="edg2" to="edg12" probability="0.35"/>
+		<edgeRelation from="edg2" to="edg8" probability="0.35"/>
+		
+		<edgeRelation from="edg6" to="edg1" probability="0.36"/>
+		<edgeRelation from="edg6" to="edg8" probability="0.32"/>
+		<edgeRelation from="edg6" to="edg12" probability="0.32"/>
+		
+		<edgeRelation from="edg7" to="edg5" probability="0.29"/>
+		<edgeRelation from="edg7" to="edg12" probability="0.33"/>
+		<edgeRelation from="edg7" to="edg1" probability="0.38"/>
+		
+		<edgeRelation from="edg11" to="edg5" probability="0.29"/>
+		<edgeRelation from="edg11" to="edg1" probability="0.38"/>
+		<edgeRelation from="edg11" to="edg8" probability="0.33"/>
+		
+		<!-- cro5 -->
+		<edgeRelation from="edg8" to="edg10" probability="0.35"/>
+		<edgeRelation from="edg8" to="edg3" probability="0.38"/>
+		<edgeRelation from="edg8" to="edg14" probability="0.27"/>
+		
+		<edgeRelation from="edg4" to="edg7" probability="0.3"/>
+		<edgeRelation from="edg4" to="edg10" probability="0.4"/>
+		<edgeRelation from="edg4" to="edg14" probability="0.3"/>
+		
+		<edgeRelation from="edg9" to="edg3" probability="0.41"/>
+		<edgeRelation from="edg9" to="edg7" probability="0.3"/>
+		<edgeRelation from="edg9" to="edg14" probability="0.29"/>
+		
+		<edgeRelation from="edg13" to="edg3" probability="0.38"/>
+		<edgeRelation from="edg13" to="edg7" probability="0.27"/>
+		<edgeRelation from="edg13" to="edg10" probability="0.35"/>
+		
+		<!-- cro8 -->
+		<edgeRelation from="edg16" to="edg11" probability="0.29"/>
+		<edgeRelation from="edg16" to="edg18" probability="0.43"/>
+		<edgeRelation from="edg16" to="edg22" probability="0.28"/>
+		
+		<edgeRelation from="edg12" to="edg18" probability="0.43"/>
+		<edgeRelation from="edg12" to="edg22" probability="0.29"/>
+		<edgeRelation from="edg12" to="edg15" probability="0.28"/>
+		
+		<edgeRelation from="edg17" to="edg11" probability="0.33"/>
+		<edgeRelation from="edg17" to="edg15" probability="0.34"/>
+		<edgeRelation from="edg17" to="edg22" probability="0.33"/>
+		
+		<edgeRelation from="edg21" to="edg11" probability="0.28"/>
+		<edgeRelation from="edg21" to="edg15" probability="0.29"/>
+		<edgeRelation from="edg21" to="edg18" probability="0.43"/>
+		
+		<!-- cro9 -->
+		<edgeRelation from="edg14" to="edg17" probability="0.32"/>
+		<edgeRelation from="edg14" to="edg20" probability="0.18"/>
+		<edgeRelation from="edg14" to="edg24" probability="0.5"/>
+		
+		<edgeRelation from="edg18" to="edg13" probability="0.29"/>
+		<edgeRelation from="edg18" to="edg20" probability="0.19"/>
+		<edgeRelation from="edg18" to="edg24" probability="0.52"/>
+		
+		<edgeRelation from="edg19" to="edg13" probability="0.25"/>
+		<edgeRelation from="edg19" to="edg17" probability="0.29"/>
+		<edgeRelation from="edg19" to="edg24" probability="0.46"/>
+		
+		<edgeRelation from="edg23" to="edg13" probability="0.36"/>
+		<edgeRelation from="edg23" to="edg17" probability="0.41"/>
+		<edgeRelation from="edg23" to="edg20" probability="0.23"/>
+	</interval>
+	
+	<turns>
+		<sink edges="edg1"/>
+		<sink edges="edg3"/>
+		<sink edges="edg5"/>
+		<sink edges="edg15"/>
+		<sink edges="edg10"/>
+		<sink edges="edg20"/>
+		<sink edges="edg22"/>
+		<sink edges="edg24"/>
+	</turns>
+</edgeRelations>

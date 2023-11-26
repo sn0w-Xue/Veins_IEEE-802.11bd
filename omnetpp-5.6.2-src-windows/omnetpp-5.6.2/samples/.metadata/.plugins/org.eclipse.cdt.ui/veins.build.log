@@ -1,0 +1,17 @@
+16:25:33 **** Incremental Build of configuration gcc-release for project veins ****
+make MODE=release -j24 all 
+make[1]: Entering directory '/d/Applications/Veins_OMNeTpp_SUMO/veins-5.2/veins-veins-5.2/src'
+veins/modules/application/traci/TraCIDemo11p_test1.cc
+In file included from veins/modules/application/traci/TraCIDemo11p_test1.cc:23:
+In file included from .\veins/modules/application/traci/TraCIDemo11p_test1.h:25:
+In file included from .\veins/modules/application/ieee80211p/DemoBaseApplLayer.h:28:
+In file included from .\veins/modules/utility/Consts80211p.h:29:
+.\veins/modules/utility/ConstsPhy.h:195:1: warning: control may reach end of non-void function [-Wreturn-type]
+}
+^
+1 warning generated.
+Creating shared library: ../out/clang-release/src/libveins.dll
+make[1]: Leaving directory '/d/Applications/Veins_OMNeTpp_SUMO/veins-5.2/veins-veins-5.2/src'
+
+16:25:35 Build Finished. 0 errors, 1 warnings. (took 1s.747ms)
+

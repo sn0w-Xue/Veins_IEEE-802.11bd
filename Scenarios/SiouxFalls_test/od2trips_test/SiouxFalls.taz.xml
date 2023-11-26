@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 05/04/23 15:06:51 by Eclipse SUMO netedit Version 1.8.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/netconvertConfiguration.xsd">
+
+    <input>
+        <sumo-net-file value="D:\Applications\Veins_OMNeTpp_SUMO\Scenarios\SiouxFalls_test\SiouxFalls.net.xml"/>
+    </input>
+
+    <output>
+        <output-file value="D:\Applications\Veins_OMNeTpp_SUMO\Scenarios\SiouxFalls_test\SiouxFalls.net.xml"/>
+    </output>
+
+    <processing>
+        <geometry.min-radius.fix.railways value="false"/>
+        <geometry.max-grade.fix value="false"/>
+        <offset.disable-normalization value="true"/>
+        <lefthand value="false"/>
+    </processing>
+
+    <junctions>
+        <no-turnarounds value="true"/>
+        <junctions.corner-detail value="5"/>
+        <junctions.limit-turn-speed value="5.5"/>
+        <rectangular-lane-cut value="false"/>
+    </junctions>
+
+    <pedestrian>
+        <walkingareas value="false"/>
+    </pedestrian>
+
+    <netedit>
+        <additional-files value="D:\SF_while.add.xml"/>
+    </netedit>
+
+    <report>
+        <aggregate-warnings value="5"/>
+    </report>
+
+</configuration>
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <taz id="taz_10_i" shape="3755.15,5973.97 3782.07,5953.57 3787.03,5979.94 3755.15,5973.97" color="blue">
+        <tazSource id="gneE23" weight="1.00"/>
+        <tazSink id="gneE23" weight="1.00"/>
+    </taz>
+    <taz id="taz_10_o" shape="3692.71,5910.44 3713.38,5882.59 3725.19,5906.85 3692.71,5910.44" color="blue">
+        <tazSource id="gneE24" weight="1.00"/>
+        <tazSink id="gneE24" weight="1.00"/>
+    </taz>
+    <taz id="taz_11_i" shape="1782.86,5969.80 1796.92,5953.45 1790.59,5952.57 1774.78,5965.93 1782.86,5969.80" color="blue">
+        <tazSource id="gneE21" weight="1.00"/>
+        <tazSink id="gneE21" weight="1.00"/>
+    </taz>
+    <taz id="taz_11_o" shape="1735.59,5925.34 1747.36,5905.83 1725.75,5906.01 1735.59,5925.34" color="blue">
+        <tazSource id="gneE22" weight="1.00"/>
+        <tazSink id="gneE22" weight="1.00"/>
+    </taz>
+    <taz id="taz_12_i" shape="-13.37,5970.73 -24.16,5945.41 -35.86,5966.52 -13.37,5970.73" color="blue">
+        <tazSource id="gneE19" weight="1.00"/>
+        <tazSink id="gneE19" weight="1.00"/>
+    </taz>
+    <taz id="taz_12_o" shape="-24.43,5940.38 -17.30,5906.38 -38.60,5921.19 -24.43,5940.38" color="blue">
+        <tazSource id="gneE20" weight="1.00"/>
+        <tazSink id="gneE20" weight="1.00"/>
+    </taz>
+    <taz id="taz_13_i" shape="-21.37,-15.74 12.84,-18.30 5.33,-31.69 -21.37,-15.74" color="blue">
+        <tazSource id="gneE42" weight="1.00"/>
+        <tazSink id="gneE42" weight="1.00"/>
+    </taz>
+    <taz id="taz_13_o" shape="-22.46,15.30 -26.71,-15.20 -38.40,0.67 -22.46,15.30" color="blue">
+        <tazSource id="gneE41" weight="1.00"/>
+        <tazSink id="gneE41" weight="1.00"/>
+    </taz>
+    <taz id="taz_14_i" shape="1725.67,3090.87 1748.03,3109.97 1732.31,3114.51 1725.67,3090.87" color="blue">
+        <tazSource id="gneE31" weight="1.00"/>
+        <tazSink id="gneE31" weight="1.00"/>
+    </taz>
+    <taz id="taz_14_o" shape="1733.47,3088.07 1744.30,3052.08 1723.69,3058.37 1733.47,3088.07" color="blue">
+        <tazSource id="gneE32" weight="1.00"/>
+        <tazSink id="gneE32" weight="1.00"/>
+    </taz>
+    <taz id="taz_15_i" shape="3755.54,3108.89 3773.42,3093.50 3786.09,3108.44 3755.54,3108.89" color="blue">
+        <tazSource id="gneE34" weight="1.00"/>
+        <tazSink id="gneE34" weight="1.00"/>
+    </taz>
+    <taz id="taz_15_o" shape="3709.04,3063.52 3727.93,3047.22 3715.37,3034.10 3709.04,3063.52" color="blue">
+        <tazSource id="gneE33" weight="1.00"/>
+        <tazSink id="gneE33" weight="1.00"/>
+    </taz>
+    <taz id="taz_16_i" shape="5955.97,5973.48 5973.14,5952.73 5990.88,5964.42 5955.97,5973.48" color="blue">
+        <tazSource id="gneE25" weight="1.00"/>
+        <tazSink id="gneE25" weight="1.00"/>
+    </taz>
+    <taz id="taz_16_o" shape="5894.64,5915.55 5925.96,5897.25 5897.66,5878.00 5894.64,5915.55" color="blue">
+        <tazSource id="gneE26" weight="1.00"/>
+        <tazSink id="gneE26" weight="1.00"/>
+    </taz>
+    <taz id="taz_17_i" shape="5969.30,4633.68 5967.32,4596.98 5996.22,4617.81 5969.30,4633.68" color="blue">
+        <tazSource id="gneE30" weight="1.00"/>
+        <tazSink id="gneE30" weight="1.00"/>
+    </taz>
+    <taz id="taz_17_o" shape="5905.55,4608.32 5914.90,4575.31 5888.12,4591.74 5905.55,4608.32" color="blue">
+        <tazSource id="gneE29" weight="1.00"/>
+        <tazSink id="gneE29" weight="1.00"/>
+    </taz>
+    <taz id="taz_18_i" shape="8155.66,5961.06 8171.45,5940.00 8181.88,5951.36 8155.66,5961.06" color="blue">
+        <tazSource id="gneE27" weight="1.00"/>
+        <tazSink id="gneE27" weight="1.00"/>
+    </taz>
+    <taz id="taz_18_o" shape="8173.11,5933.60 8152.87,5913.37 8179.20,5913.68 8173.11,5933.60" color="blue">
+        <tazSource id="gneE28" weight="1.00"/>
+        <tazSink id="gneE28" weight="1.00"/>
+    </taz>
+    <taz id="taz_19_i" shape="5956.66,3103.83 5966.42,3082.48 5984.68,3098.42 5956.66,3103.83" color="blue">
+        <tazSource id="gneE35" weight="1.00"/>
+        <tazSink id="gneE35" weight="1.00"/>
+    </taz>
+    <taz id="taz_19_o" shape="5972.99,3079.10 5952.70,3059.39 5980.04,3049.24 5972.99,3079.10" color="blue">
+        <tazSource id="gneE36" weight="1.00"/>
+        <tazSink id="gneE36" weight="1.00"/>
+    </taz>
+    <taz id="taz_1_i" shape="-11.46,10136.00 20.57,10135.67 4.27,10154.12 -11.46,10136.00" color="blue">
+        <tazSource id="gneE1" weight="1.00"/>
+        <tazSink id="gneE1" weight="1.00"/>
+    </taz>
+    <taz id="taz_1_o" shape="-19.28,10136.33 -16.32,10106.68 -33.94,10116.40 -19.28,10136.33" color="blue">
+        <tazSource id="gneE2" weight="1.00"/>
+        <tazSink id="gneE2" weight="1.00"/>
+    </taz>
+    <taz id="taz_20_i" shape="5958.22,10.04 5957.61,-19.38 5978.03,-2.53 5958.22,10.04" color="blue">
+        <tazSource id="gneE47" weight="1.00"/>
+        <tazSink id="gneE47" weight="1.00"/>
+    </taz>
+    <taz id="taz_20_o" shape="5929.93,-21.21 5957.26,-29.24 5931.76,-42.07 5929.93,-21.21" color="blue">
+        <tazSource id="gneE48" weight="1.00"/>
+        <tazSink id="gneE48" weight="1.00"/>
+    </taz>
+    <taz id="taz_21_i" shape="3708.00,-15.15 3739.79,-26.68 3712.67,-44.76 3708.00,-15.15" color="blue">
+        <tazSource id="gneE45" weight="1.00"/>
+        <tazSink id="gneE45" weight="1.00"/>
+    </taz>
+    <taz id="taz_21_o" shape="3746.95,-27.28 3779.58,-18.69 3770.24,-47.78 3746.95,-27.28" color="blue">
+        <tazSource id="gneE46" weight="1.00"/>
+        <tazSink id="gneE46" weight="1.00"/>
+    </taz>
+    <taz id="taz_22_i" shape="3758.35,1788.45 3777.40,1762.28 3786.51,1793.92 3758.35,1788.45" color="blue">
+        <tazSource id="gneE40" weight="1.00"/>
+        <tazSink id="gneE40" weight="1.00"/>
+    </taz>
+    <taz id="taz_22_o" shape="3699.05,1737.93 3715.12,1710.10 3727.54,1729.32 3699.05,1737.93" color="blue">
+        <tazSource id="gneE39" weight="1.00"/>
+        <tazSink id="gneE39" weight="1.00"/>
+    </taz>
+    <taz id="taz_23_i" shape="1732.04,1769.13 1748.27,1785.61 1736.47,1792.13 1732.04,1769.13" color="blue">
+        <tazSource id="gneE37" weight="1.00"/>
+        <tazSink id="gneE37" weight="1.00"/>
+    </taz>
+    <taz id="taz_23_o" shape="1737.08,1759.66 1746.43,1735.43 1728.96,1738.63 1737.08,1759.66" color="blue">
+        <tazSource id="gneE38" weight="1.00"/>
+        <tazSink id="gneE38" weight="1.00"/>
+    </taz>
+    <taz id="taz_24_i" shape="1731.47,-17.49 1754.30,-28.19 1736.34,-36.81 1731.47,-17.49" color="blue">
+        <tazSource id="gneE43" weight="1.00"/>
+        <tazSink id="gneE43" weight="1.00"/>
+    </taz>
+    <taz id="taz_24_o" shape="1766.43,-27.79 1804.75,-15.89 1788.95,-39.28 1766.43,-27.79" color="blue">
+        <tazSource id="gneE44" weight="1.00"/>
+        <tazSink id="gneE44" weight="1.00"/>
+    </taz>
+    <taz id="taz_2_i" shape="5964.34,10132.51 5961.52,10093.96 5997.79,10115.10 5964.34,10132.51" color="blue">
+        <tazSource id="gneE3" weight="1.00"/>
+        <tazSink id="gneE3" weight="1.00"/>
+    </taz>
+    <taz id="taz_2_o" shape="5923.51,10144.18 5955.87,10141.26 5945.57,10165.05 5923.51,10144.18" color="blue">
+        <tazSource id="edg_2_o" weight="1.00"/>
+        <tazSink id="edg_2_o" weight="1.00"/>
+    </taz>
+    <taz id="taz_3_i" shape="-16.93,8605.72 -20.94,8580.76 -38.00,8592.21 -16.93,8605.72" color="blue">
+        <tazSource id="gneE7" weight="1.00"/>
+        <tazSink id="gneE7" weight="1.00"/>
+    </taz>
+    <taz id="taz_3_o" shape="-28.37,8579.03 -14.02,8555.00 -33.71,8556.67 -28.37,8579.03" color="blue">
+        <tazSource id="gneE8" weight="1.00"/>
+        <tazSink id="gneE8" weight="1.00"/>
+    </taz>
+    <taz id="taz_4_i" shape="1737.92,8593.68 1761.69,8605.62 1748.63,8617.05 1737.92,8593.68" color="blue">
+        <tazSource id="gneE4" weight="1.00"/>
+        <tazSink id="gneE4" weight="1.00"/>
+    </taz>
+    <taz id="taz_4_o" shape="1761.49,8613.68 1774.14,8591.23 1793.73,8600.82 1761.49,8613.68" color="blue">
+        <tazSource id="gneE6" weight="1.00"/>
+        <tazSink id="gneE6" weight="1.00"/>
+    </taz>
+    <taz id="taz_5_i" shape="3718.84,8593.21 3739.68,8610.52 3723.75,8620.94 3718.84,8593.21" color="blue">
+        <tazSource id="gneE9" weight="1.00"/>
+        <tazSink id="gneE9" weight="1.00"/>
+    </taz>
+    <taz id="taz_5_o" shape="3744.21,8614.16 3759.45,8591.54 3775.77,8602.16 3744.21,8614.16" color="blue">
+        <tazSource id="gneE10" weight="1.00"/>
+        <tazSink id="gneE10" weight="1.00"/>
+    </taz>
+    <taz id="taz_6_i" shape="5962.54,8611.99 5980.80,8577.54 6010.35,8604.27 5962.54,8611.99" color="blue">
+        <tazSource id="gneE11" weight="1.00"/>
+        <tazSink id="gneE11" weight="1.00"/>
+    </taz>
+    <taz id="taz_6_o" shape="5973.82,8573.09 5958.68,8538.94 6006.04,8556.01 5973.82,8573.09" color="blue">
+        <tazSource id="gneE12" weight="1.00"/>
+        <tazSink id="gneE12" weight="1.00"/>
+    </taz>
+    <taz id="taz_7_i" shape="8129.05,7279.05 8159.13,7276.99 8146.19,7293.30 8129.05,7279.05" color="blue">
+        <tazSource id="gneE17" weight="1.00"/>
+        <tazSink id="gneE17" weight="1.00"/>
+    </taz>
+    <taz id="taz_7_o" shape="8165.39,7273.03 8160.96,7248.26 8186.67,7258.07 8165.39,7273.03" color="blue">
+        <tazSource id="gneE18" weight="1.00"/>
+        <tazSink id="gneE18" weight="1.00"/>
+    </taz>
+    <taz id="taz_8_i" shape="5955.45,7288.55 5974.88,7272.06 5983.61,7289.53 5955.45,7288.55" color="blue">
+        <tazSource id="gneE15" weight="1.00"/>
+        <tazSink id="gneE15" weight="1.00"/>
+    </taz>
+    <taz id="taz_8_o" shape="5897.73,7241.36 5917.50,7210.60 5926.37,7230.37 5897.73,7241.36" color="blue">
+        <tazSource id="gneE16" weight="1.00"/>
+        <tazSink id="gneE16" weight="1.00"/>
+    </taz>
+    <taz id="taz_9_i" shape="3695.99,7301.40 3721.09,7295.93 3701.45,7264.61 3695.99,7301.40" color="blue">
+        <tazSource id="gneE13" weight="1.00"/>
+        <tazSink id="gneE13" weight="1.00"/>
+    </taz>
+    <taz id="taz_9_o" shape="3690.14,7250.70 3715.00,7257.16 3712.76,7215.03 3690.14,7250.70" color="blue">
+        <tazSource id="gneE14" weight="1.00"/>
+        <tazSink id="gneE14" weight="1.00"/>
+    </taz>
+</additional>

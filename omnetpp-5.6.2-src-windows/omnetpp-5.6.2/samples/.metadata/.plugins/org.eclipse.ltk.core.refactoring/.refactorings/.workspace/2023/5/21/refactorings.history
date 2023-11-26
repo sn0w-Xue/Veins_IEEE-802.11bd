@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;veins/src/veins/nodes/omnetpp.ini&apos;" deleteContents="false" description="Delete resource &apos;veins/src/veins/nodes/omnetpp.ini&apos;" element1="/veins/src/veins/nodes/omnetpp.ini" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1685109064974"/>
+</session>

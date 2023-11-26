@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <input>
+    <net-file value="xian.net.xml" />
+    <route-files value="xian.rou.xml" />
+    <additional-files value="xian.poly.xml"/>
+  </input>
+  <time>
+    <begin value="0" />
+    <end value="1500" />
+  </time>
+</configuration>
